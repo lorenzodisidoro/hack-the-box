@@ -1,6 +1,6 @@
 # Haystack
 
-Status: doing
+Status: closed
 
 Target IP: 10.10.10.115
 
