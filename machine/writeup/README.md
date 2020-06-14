@@ -1,8 +1,7 @@
 # Writeup
 
-Status: closed
-
-Target IP: 10.10.10.138
+STATUS: **closed** <br>
+TARGET IP: **10.10.10.138**
 
 ## Information gathering
 ### NMAP

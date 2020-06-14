@@ -1,8 +1,7 @@
 # Haystack
 
-Status: closed
-
-Target IP: 10.10.10.115
+STATUS: **closed** <br>
+TARGET IP: **10.10.10.115**
 
 ## Information gathering
 ### NMAP
